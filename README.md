@@ -28,3 +28,6 @@
 #### Han, for his part, has now partly shifted focus from compression AI models to channeling AI to design small, efficient models from the start. His newest method, Once for All, also debuts at ICLR. Of the new learning rate method, he says: “I’m happy to see new pruning and retraining techniques evolve, giving more people access to high-performing AI applications.” 
 
 #### Support for the study came from the Defense Advanced Research Projects Agency, Google, MIT-IBM Watson AI Lab, MIT Quest for Intelligence, and the U.S. Office of Naval Research.
+
+#### [Reference]
+#### https://news.mit.edu/2020/foolproof-way-shrink-deep-learning-models-0430?fbclid=IwAR06_GqJ4mRd06xUH8WBOCbLiY0ApS1x0lsqoMhA7TUSEyGTAat1oCP1H6Q
